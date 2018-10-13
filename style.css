@@ -1,0 +1,35 @@
+
+/* write your CSS here */
+.container{
+	background-color: gray;
+}
+img{
+	width: 50px;
+}
+#main{
+	
+	height: 400px;
+	width: 100%;
+	margin-top: 100px;
+	margin-left: 150px;
+	/*border: 2px solid black;*/
+	display: flex;
+
+}
+.sce{
+	display: inline-flex;
+}
+.third{
+	flex-direction: column;
+	margin-left: 20px;
+}
+.book{
+	height: 250px;
+	width: 150px;
+}
+.table-primary{
+	text-align: center;
+}
+th{
+	color:#00547a;
+}
